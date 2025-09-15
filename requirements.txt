@@ -1,8 +1,7 @@
-python
-matplotlib
-pandas
-numpy
-seaborn
-scikit-learn
-streamlit
-joblib
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.2.2
+streamlit==1.37.0
+joblib==1.4.2
+seaborn==0.12.2
+matplotlib==3.9.2
