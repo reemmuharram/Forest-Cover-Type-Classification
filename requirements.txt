@@ -1,6 +1,8 @@
 pip>=25.1
-setuptools>=70.0
+setuptools
 wheel
+setuptools-scm
+
 numpy==1.23.5
 pandas==1.5.3
 scikit-learn==1.2.2
@@ -8,4 +10,3 @@ streamlit==1.25.0
 joblib==1.2.0
 seaborn==0.12.2
 matplotlib==3.7.1
-
