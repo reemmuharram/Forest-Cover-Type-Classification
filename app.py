@@ -1,6 +1,4 @@
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import joblib
 import streamlit as st
 
@@ -63,4 +61,5 @@ if st.button("Predict The Forest Cover Type 🌳"):
     }
     df = pd.DataFrame([data])
     preds = model.predict(df)[0]
+
     st.success(f"Forest Cover Type is: {preds} ✅")
