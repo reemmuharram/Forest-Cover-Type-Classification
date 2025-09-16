@@ -26,7 +26,7 @@ Students-Scores-Prediction/
 - Horizontal Distance To Fire Points
 - Soil Type
 - Wilderness Area
-- 
+
 ## 🔧 Technologies Used
 - Python 3.10
 - Streamlit
